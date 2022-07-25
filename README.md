@@ -5,7 +5,7 @@ Although the dataset is effectively solved, I decided to use him as a basis for 
 # Performance
 Due to computational restrictions, the neural network was not able to go through many epochs. Nevertheless, the neural network gain pretty good accuracy score and the loss was minimized as much as possible so the network did not went to overfit.
 
-* Accuracy: 76.15%
-* Loss: 0.6955
+* Accuracy: 43.25% -> 76.15%
+* Loss: 1.5687 -> 0.6955
 
 https://user-images.githubusercontent.com/68182283/180789221-21e30b40-b0f6-4cd6-b59e-02cc26984172.mp4
