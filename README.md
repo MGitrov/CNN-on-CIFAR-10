@@ -1,4 +1,6 @@
 # Introduction
+I've learned the theory and mathematics behind the neural network for about 2 months approx, when the main purpose of the project was to translate all the theory into something practical.
+
 The CIFAR-10 is a standard dataset that are commonly used to train machine learning and computer vision algorithms.
 Although the dataset is effectively solved, I decided to use him as a basis for learning and practicing how to develop, evaluate and use convolutional neural networks for image classification from scratch.
 
