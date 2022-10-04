@@ -3,7 +3,7 @@ I've learned the theory and mathematics behind the neural network for about 2 mo
 
 # Data
 The CIFAR-10 is a standard dataset that are commonly used to train machine learning and computer vision algorithms.
-Although the dataset is effectively solved, I decided to use him as a basis for learning and practicing how to develop, evaluate and use convolutional neural networks for image classification from scratch.
+Although the dataset is effectively solved, I decided to use him as a basis for learning and practicing how to develop, evaluate and use convolutional neural networks for image classification from "scratch" - not using a pre-trained model, but training the model weights from random to a viable model.
 
 # Performance
 Due to computational restrictions, the neural network was not able to go through many epochs. Nevertheless, the neural network gain pretty good accuracy score and the loss was minimized as much as possible so the neural network did not went to overfit.
